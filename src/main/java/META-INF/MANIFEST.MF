@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: HttpServer
+Class-Path: fastjson-1.2.28.jar
+

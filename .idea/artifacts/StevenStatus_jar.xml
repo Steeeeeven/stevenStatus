@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="StevenStatus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StevenStatus_jar</output-path>
+    <root id="root">
+      <element id="archive" name="StevenStatus.jar">
+        <element id="module-output" name="StevenStatus" />
+      </element>
+      <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.28" />
+    </root>
+  </artifact>
+</component>
